@@ -13,4 +13,4 @@ After installing npm, vite can be installed by running ``` npm install vite ```
 3. Move into the project directory with ``` cd MR-Dev-Test ```
 3. Execute the command ``` npm run build ```
 4. Execute the command ``` npm run preview ```
-5. Navigate to ``` http://localhost:4173 ``` in a browser to view the application
+5. Navigate to ``` http://localhost:4173 ``` in a browser to view the application (If this port is in use a different port will be used, see the command output)
